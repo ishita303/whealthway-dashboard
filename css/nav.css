@@ -1,0 +1,106 @@
+.nav{
+  position: fixed;
+  width: 1690px;
+  height: 70px;
+  left: calc(50% - 1920px/2);
+  top: 0px;
+  background: #FFFFF;
+  box-shadow: 18px 4px 35px rgba(0, 0, 0, 0.02);
+  overflow: hidden;
+}
+.bar{
+  position: absolute;
+  width: 35px;
+  height: 35px;
+  left: 470px;
+  top: 15px;
+}
+.nhead{
+  position: absolute;
+  width: 171px;
+  height: 45px;
+  left: 530px;
+  top: 15px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 450;
+  font-size: 19px;
+  line-height: 45px;
+  color: #000000;
+}
+.noti{
+  position: absolute;
+  width: 48px;
+  height: 45px;
+  left: 1330px;
+  top: 12px;
+  border: 1px solid #E9ECFF;
+  box-sizing: border-box;
+  border-radius: 50px;
+}
+.nicon{
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  left: 12px;
+  top: 12px;
+}
+.chat{
+  position: absolute;
+  width: 48px;
+  height: 45px;
+  left: 1390px;
+  top: 12px;
+  border: 1px solid #E9ECFF;
+  box-sizing: border-box;
+  border-radius: 50px;
+}
+.cicon{
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  left: 12px;
+  top: 12px;
+}
+.sept{
+  position: absolute;
+  width: 1px;
+  height: 56px;
+  left: 1450px;
+  top: 7px;
+  background: #F7F7F7;
+  border-radius: 8px;
+}
+.profile{
+  position: absolute;
+  width: 170px;
+  height: 40px;
+  left: 1470px;
+  top: 14px;
+  position: absolute;
+  background: #EEFFF3;
+  border-radius: 40px;
+}
+.profpic{
+  position: absolute;
+  width: 42px;
+  height: 38px;
+  left: 0px;
+  top: 0px;
+  background: #C4C4C4;
+  border: 1px solid #04A547;
+  border-radius: 115px;
+}
+.proftext{
+  position: absolute;
+  width: 111px;
+  height: 24px;
+  left: 60px;
+  top: 10px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #2BC155;
+}
